@@ -2,9 +2,9 @@ package com.example.ecommerse.utils;
 
 public class constants {
 
-//    public static String API_BASE_URL = "https://tutorials.mianasad.com/ecommerce";
+    public static String API_BASE_URL = "https://tutorials.mianasad.com/ecommerce";
 //public static String API_BASE_URL = "https://YOUR_IP_ADDRESS/ecommerces1";
-    public static String API_BASE_URL = "https://YOUR_IP_ADDRESS/ecommerse";
+//    public static String API_BASE_URL = "https://YOUR_IP_ADDRESS/ecommerse";
 
     public static String GET_CATEGORIES_URL = API_BASE_URL + "/services/listCategory";
     public static String GET_PRODUCTS_URL = API_BASE_URL + "/services/listProduct";
